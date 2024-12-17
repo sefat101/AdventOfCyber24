@@ -1,2 +1,2 @@
 # AdventOfCyber24
-[``code example``](https://tryhackme.com/r/room/adventofcyber2024)
+[``Advent Of Cyber 2024``](https://tryhackme.com/r/room/adventofcyber2024)
